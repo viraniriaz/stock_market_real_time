@@ -6,17 +6,19 @@
 <Br>
 <b>We are going to use different technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.<b>
 
-<Br>
+<Br><br>
 <B>ARCHITECTURE<B>
 <BR>
-![Architecture](https://github.com/viraniriaz/stock_market_real_time/assets/82742908/394b928d-a8ed-4e38-99ad-5333e6ab22c6)
+<img width="483" alt="image" src="https://github.com/viraniriaz/stock_market_real_time/assets/82742908/3d97b298-f2f3-4423-8bd9-3cef6daf29ab">
+
 
 
  <B>TECHNOLOGY USED<B>
- <li> Programming Language - Python </li>![Uploading Architecture.jpg…]()
+ <li> Programming Language - Python </li>
 
   <li> Amazon Web Services(AWS)</li>
-   <ol> S3(Simple Storage Service)</ol>
+  <br>
+  <ol> S3(Simple Storage Service)</ol>
    <ol>Athena</ol>
    <ol>Glue Crawler</ol>
    <ol>Glue Catalog</ol>
